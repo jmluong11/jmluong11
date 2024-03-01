@@ -12,7 +12,7 @@ Let's connect and collaborate to make the digital world a safer place for all!
 
 - <b>Nessus Essentials and Vulnerability Remediation</b>
   - [Vulnerability Management Lab](https://github.com/jmluong11/Vulnerability-Management-Lab)
-- <b>Security Information and Event Management (Azure Sentinel, Powershell, and Log Analytics Workspace </b>
+- <b>Security Information and Event Management (Azure Sentinel, Powershell, and Log Analytics Workspace) </b>
   - [SIEM Lab](https://github.com/jmluong11/SIEM.Lab) </b>
 - <b>Active Directory (Powershell and Virtual Box)</b>
   - [Active Directory Lab](https://github.com/jmluong11/Active-Directory)
