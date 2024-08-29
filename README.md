@@ -8,7 +8,7 @@
 
 Let's connect and collaborate to make the digital world a safer place for all!
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Nessus Essentials and Vulnerability Remediation</b>
   - [Vulnerability Management Lab](https://github.com/jmluong11/Vulnerability-Management-Lab)
