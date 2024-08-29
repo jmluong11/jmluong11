@@ -16,6 +16,8 @@ Let's connect and collaborate to make the digital world a safer place for all!
   - [SIEM Lab](https://github.com/jmluong11/SIEM.Lab) </b>
 - <b>Active Directory (Powershell and Virtual Box)</b>
   - [Active Directory Lab](https://github.com/jmluong11/Active-Directory)
+- <b>Jira Service Management</b>
+  - [Jira Service Management: Ticket Lifecycle and Resolution](https://github.com/jmluong11/Jira-Service-Management-Ticket-Lifecycle-and-Resolution)
  
 <h2> 🤳 Connect with me:</h2>
 
