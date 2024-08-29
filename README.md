@@ -13,9 +13,9 @@ Let's connect and collaborate to make the digital world a safer place for all!
 - <b>Nessus Essentials and Vulnerability Remediation</b>
   - [Vulnerability Management Simulation](https://github.com/jmluong11/Vulnerability-Management-Lab)
 - <b>Security Information and Event Management (Azure Sentinel, Powershell, and Log Analytics Workspace) </b>
-  - [SIEM Map over an exposed VM](https://github.com/jmluong11/SIEM.Lab) </b>
+  - [SIEM Map Over an Exposed VM](https://github.com/jmluong11/SIEM.Lab) </b>
 - <b>Active Directory (Powershell and Virtual Box)</b>
-  - [Active Directory deployment, configuration, and user generation](https://github.com/jmluong11/Active-Directory)
+  - [Active Directory Deployment, Configuration, and User Generation](https://github.com/jmluong11/Active-Directory)
 - <b>Jira Service Management</b>
   - [Jira Service Management: Ticket Lifecycle and Resolution](https://github.com/jmluong11/Jira-Service-Management-Ticket-Lifecycle-and-Resolution)
  
