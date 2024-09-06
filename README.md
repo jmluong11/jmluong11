@@ -18,6 +18,8 @@ Let's connect and collaborate to make the digital world a safer place for all!
   - [Active Directory Deployment, Configuration, and User Generation](https://github.com/jmluong11/Active-Directory)
 - <b>Jira Service Management</b>
   - [Jira Service Management: Ticket Lifecycle and Resolution](https://github.com/jmluong11/Jira-Service-Management-Ticket-Lifecycle-and-Resolution)
+  - [Jira Service Management: Configuration, Workflows and Automation](https://github.com/jmluong11/Jira-Service-Management-Configuration-Workflows-and-Automation)
+
  
 <h2> 🤳 Connect with me:</h2>
 
