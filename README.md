@@ -1,7 +1,7 @@
 <h1>Hi, I'm John!</h1> 
-<b></b>I've recently transitioned from Virginia to the city of Houston, Texas. With a Bachelor's degree in Biology and a minor in Chemistry, my journey into the world of cybersecurity marks an exciting transition from my previous career aspirations in optometry.<br>
+<b></b>I've recently transitioned from Virginia to the city of Houston, Texas. With a Bachelor's degree in Biology and a minor in Chemistry, my journey into the world of cybersecurity marks an exciting transition from my previous career aspirations in optometry. Additionally, I've achieved a Masters in Cybersecurity and Information Assurance from WGU as of June, 2025 with my capstone project demonstrating my skills and knowledge I've learned throughout thr program.<br>
 <br/>
-<b>In this portfolio, you'll see three projects currently that showcase my evolving skills for cybersecurity and experiencing various software that companies are using/implementing currently or similarly. In addition, I enjoy keep up to date with news/stories involving cybersecurity since this is always an evolving field.<br>
+<b>In this portfolio, you'll see four projects currently that showcase my evolving skills for cybersecurity and experiencing various software that companies are using/implementing currently or similarly. In addition, I enjoy keep up to date with news/stories involving cybersecurity since this is always an evolving field.<br>
 <br/>
 <b>Thank you for taking the time to explore my GitHub portfolio. I invite you to delve into my projects, offer feedback, and join me on this exciting journey as I continue to grow and thrive in the dynamic field of cybersecurity.<br>
 <br/>
