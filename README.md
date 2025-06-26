@@ -13,6 +13,8 @@ Let's connect and collaborate to make the digital world a safer place for all!
 - <b> Capstone Project: Zero Trust Architecture</b>
   - <b> Designed and implemented a Zero Trust Architecture for a hybrid-cloud financial services company using Microsoft security tools and national cybersecurity frameworks</b>
   - [Zero Trust Architecture at Jotoan Financial Services](https://github.com/jmluong11/CapstoneProject)
+- <b> SSH Log Monitor with Email Alerts (Python)</b>
+  - [Detecting repeated failed SSH login attempts](https://github.com/jmluong11/ssh-log-monitor)
 - <b>Nessus Essentials and Vulnerability Remediation</b>
   - [Vulnerability Management Simulation](https://github.com/jmluong11/Vulnerability-Management-Lab)
 - <b>Security Information and Event Management (Azure Sentinel, Powershell, and Log Analytics Workspace) </b>
